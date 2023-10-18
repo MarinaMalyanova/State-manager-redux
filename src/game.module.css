@@ -1,0 +1,7 @@
+.game {
+	margin: 20px auto;
+	display: flex;
+	flex-direction: column;
+	width: 310px;
+	align-items: center;
+}

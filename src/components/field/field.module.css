@@ -1,0 +1,13 @@
+.field {
+	width: 100%;
+	margin: 10px auto;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.cell {
+	width: 100px;
+	height: 100px;
+	margin: 1px;
+	font-size: 50px;
+}
